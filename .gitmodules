@@ -1,0 +1,6 @@
+[submodule "dbservice"]
+	path = dbservice
+	url = https://github.com/skif-platform/dbservice.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/skif-platform/frontend.git
